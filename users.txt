@@ -1,0 +1,1 @@
+[{"py/object": "models.Admin", "_User__login": "1", "_User__password": "1"}, {"py/object": "models.Subscriber", "_User__login": "2", "_User__password": "2"}, {"py/object": "models.Author", "_User__login": "au", "_User__password": "au"}]
